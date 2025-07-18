@@ -2,7 +2,7 @@
 
 
 
-My name is John, i'm a chemist graduate. 
+My name is John, and i'm a Chemistry graduate. 
 
 I'm interested in all things related to: 
 
@@ -10,4 +10,4 @@ I'm interested in all things related to:
 - 💻 GNU/Linux
 - 🌱 Chemistry
 - 📄 Free and Open Source Software (FOSS)
-- 📈 Data analysis
+- 📈 Data Analysis
