@@ -22,8 +22,11 @@ My first experience with GNU/Linux was using the Debian distribution. Although I
 
 I have recently been learning FOSS tools such as QEMU with KVM and Virt Manager (virtual machines), Syncthing, LibreOffice, Gimp, Krita, Joplin, and others. 
 
+For the future, I plan to continue learning more about chemistry, especially related to analytical chemistry. Aside from chemistry-related topics, I'm looking forward to learning how to use tools like Docker, Secure Shell Protocol, and Bash Scripting.
+
 
 ![miami](https://github.com/user-attachments/assets/6cfb3bfb-9526-4181-a1f3-61614ce833c3)
+
 
 
 
