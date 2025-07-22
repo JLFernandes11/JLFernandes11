@@ -20,7 +20,7 @@ I'm always trying to learn new technologies and acquire new skills. I've been us
 
 My first experience with GNU/Linux was using the Debian distribution. Although I enjoyed using it, I wanted to try out a different distribution. That's when I started using the Fedora distribution, which is the one I'm still currently using. 
 
-I have recently been learning FOSS tools such as QEMU with KVM and Virt Manager (virtual machines), Syncthing, LibreOffice, Gimp, Krita, and others. 
+I have recently been learning FOSS tools such as QEMU with KVM and Virt Manager (virtual machines), Syncthing, LibreOffice, Gimp, Krita, Joplin, and others. 
 
 
 ![miami](https://github.com/user-attachments/assets/6cfb3bfb-9526-4181-a1f3-61614ce833c3)
